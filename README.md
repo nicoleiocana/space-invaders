@@ -18,7 +18,7 @@
 
     `(main G0)`
 
-## Difficulty Modifcations
+## Difficulty Modifications
 
 If you wish to reduce the rate of space invaders that spawn on screen, go to line 265 and increase the number 3 in:
 
