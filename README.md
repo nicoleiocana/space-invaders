@@ -8,7 +8,7 @@
 
     ![download zip file](https://imgur.com/n3hhOQi.png)
 
-3. Double-click on the _space-invaders.rkt_ file
+3. Unzip the file. Inside the `space-invaders` folder, double-click on the _space-invaders.rkt_ file.
 
 4. Run the program; the button is located in the top right corner:
 
