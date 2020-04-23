@@ -38,4 +38,4 @@ If you wish to reduce the speed at which the space invaders travel, go to line 2
 
 ## Screen Capture
 
-![gameplay](https://imgur.com/Rtg3nOT.gif)
+![gameplay](https://i.imgur.com/6GtAejl.gif)
