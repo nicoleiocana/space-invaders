@@ -1,5 +1,14 @@
 # Space Invaders Video Game
 
+The Space Invaders Video Game is the final project of [The University of British Columbia](https://www.edx.org/school/ubcx)'s
+[How to Code: Simple Data online course](http://www.edx.org/course/how-to-code-simple-data) offered on [edx.org](https://www.edx.org/).
+There are notable additions that distinguish my game from others. I have listed
+them to benefit others who may utilize my code to expand upon their own:
+
+* space invaders move at different speeds
+* space invaders move in different directions
+* the conclusion of the game is met with the _GAME OVER_ screen
+
 ## Getting started
 
 1. Download DrRacket (**reminder: adjust specifications of your system**) and install on your local machine: [Download Racket](https://download.racket-lang.org/)
